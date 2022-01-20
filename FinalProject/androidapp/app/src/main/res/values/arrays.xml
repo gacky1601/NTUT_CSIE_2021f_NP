@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerValue">
+        <item> USD </item>
+        <item> HKD </item>
+        <item> GBP </item>
+        <item> AUD </item>
+        <item> CAD </item>
+        <item> SGD </item>
+        <item> CHF </item>
+        <item> JPY </item>
+        <item> ZAR </item>
+        <item> SEK </item>
+        <item> NZD </item>
+        <item> THB </item>
+        <item> PHP </item>
+        <item> IDR </item>
+        <item> EUR </item>
+        <item> KRW </item>
+        <item> VND </item>
+        <item> MYR </item>
+        <item> CNY </item>
+    </string-array>
+</resources>
